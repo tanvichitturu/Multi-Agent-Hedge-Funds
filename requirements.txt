@@ -1,0 +1,7 @@
+langgraph
+langchain-groq
+yfinance
+pydantic
+python-dotenv
+numpy
+scipy
